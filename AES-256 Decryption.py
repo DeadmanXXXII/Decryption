@@ -1,4 +1,4 @@
-//pip install pycryptodome
+#pip install pycryptodome
 
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
