@@ -1,4 +1,4 @@
-//Double bubble
+#Double bubble
 
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
